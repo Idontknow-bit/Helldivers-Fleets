@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/7th-operator-files/snap/","tags":["gardenEntry"]}
 ---
 
+
 ```elm
 Checking credentials
 ```
