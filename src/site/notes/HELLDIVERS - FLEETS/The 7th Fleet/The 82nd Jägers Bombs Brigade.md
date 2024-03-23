@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/the-82nd-jaegers-bombs-brigade/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/the-82nd-jaegers-bombs-brigade/"}
 ---
 
 ![Jägers.png](/img/user/Images/J%C3%A4gers.png)
