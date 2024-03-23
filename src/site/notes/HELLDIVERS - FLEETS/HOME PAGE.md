@@ -15,3 +15,6 @@
 
 ### Durgen Sandworms
 	[[HELLDIVERS - FLEETS/Durgen Sandworms/Durgens Sandworms\|Durgens Sandworms]]
+
+# Ranking Structure
+[[HELLDIVERS - FLEETS/Ranking Structure\|Ranking Structure]]
