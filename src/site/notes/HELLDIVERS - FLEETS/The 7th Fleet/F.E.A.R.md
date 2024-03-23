@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/f-e-a-r/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/f-e-a-r/"}
 ---
 
 ![Pasted image 20240316221756.png](/img/user/Images/Pasted%20image%2020240316221756.png)
