@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/brigades/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/brigades/"}
 ---
 
 # 7th Fleet command
