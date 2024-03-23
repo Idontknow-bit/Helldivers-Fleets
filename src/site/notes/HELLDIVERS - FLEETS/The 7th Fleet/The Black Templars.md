@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/the-black-templars/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/the-black-templars/"}
 ---
 
 ![Black_Templar_Helldivers.jpg](/img/user/Images/Black_Templar_Helldivers.jpg)
