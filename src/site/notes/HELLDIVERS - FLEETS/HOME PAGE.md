@@ -18,3 +18,6 @@
 
 # Ranking Structure
 [[HELLDIVERS - FLEETS/Ranking Structure\|Ranking Structure]]
+
+## Medals
+[[HELLDIVERS - FLEETS/Medals and their meaning\|Medals and their meaning]]
