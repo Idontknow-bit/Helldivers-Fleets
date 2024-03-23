@@ -7,6 +7,9 @@
 ### 7th Fleet
 	[[HELLDIVERS - FLEETS/The 7th Fleet/Brigades\|Brigades]]
 
+### FEAR
+	[[HELLDIVERS - FLEETS/The 7th Fleet/F.E.A.R\|F.E.A.R]]
+
 ### Valkyries
 	[[HELLDIVERS - FLEETS/Valkyries/Valkyries\|Valkyries]]
 
