@@ -27,6 +27,7 @@
 	Neuron | Trooper
 	PingChi | Trooper
 
+[[HELLDIVERS - FLEETS/The 7th Fleet/Fireteam X\|Fireteam X]]
 ## [[HELLDIVERS - FLEETS/The 7th Fleet/F.E.A.R\|F.E.A.R]]
 
 **Command**
