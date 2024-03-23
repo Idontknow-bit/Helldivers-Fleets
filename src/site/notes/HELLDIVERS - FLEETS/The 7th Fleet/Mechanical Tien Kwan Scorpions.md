@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/mechanical-tien-kwan-scorpions/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/mechanical-tien-kwan-scorpions/"}
 ---
 
 ![Scorpions2.png](/img/user/Images/Scorpions2.png)
