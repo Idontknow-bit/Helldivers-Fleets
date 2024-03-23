@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/7th-operator-files/darth/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/7th-operator-files/darth/"}
 ---
 
 **Meet me DarthDDB** 
