@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/medals-and-their-meaning/"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/medals-and-their-meaning/","noteIcon":"","created":"2024-03-17T00:32:02.056+01:00","updated":"2024-03-24T01:08:47.299+01:00"}
 ---
 
 # [[HELLDIVERS - FLEETS/The 7th Fleet/F.E.A.R\|F.E.A.R]]
