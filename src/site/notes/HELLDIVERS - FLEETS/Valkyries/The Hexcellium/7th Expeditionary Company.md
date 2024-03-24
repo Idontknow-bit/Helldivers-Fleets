@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/the-hexcellium/7th-expeditionary-company/"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/the-hexcellium/7th-expeditionary-company/","noteIcon":"","created":"2024-03-22T23:47:02.351+01:00","updated":"2024-03-23T23:28:05.888+01:00"}
 ---
 
 ![](https://lh7-us.googleusercontent.com/pflnctpJhIqm-C_qUNsxbShFuyrrYxdhfHc1s3dSTMq1BKUCO96-QfGHsHqf0qH7zymng9tJ1S2p_Hd3g-eMMUeajJDYO92KWt6g1E7oOnOsHIeWiviQCH3HbNU0ZRhGqPohMubcXMGMbtNrf9YlzA)
