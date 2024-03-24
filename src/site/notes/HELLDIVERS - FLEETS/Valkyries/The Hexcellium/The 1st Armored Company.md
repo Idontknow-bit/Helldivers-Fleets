@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/the-hexcellium/the-1st-armored-company/"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/the-hexcellium/the-1st-armored-company/","noteIcon":"","created":"2024-03-22T23:24:49.251+01:00","updated":"2024-03-23T23:27:34.464+01:00"}
 ---
 
 ![](https://lh7-us.googleusercontent.com/3nzLMiiOhpOW8lSuS_2DlM_bczaEr7TG5ByCA48m56qEoW6RWwuzPsH7kE2xLbsT_vJxTvR6CzIMhnGmeyqsffcqurkpvNBT3ctsh-ig6e8XnGvLBoaAgPynI0TumGWxCadii-Y_F1jvxM-9UXdheg)
