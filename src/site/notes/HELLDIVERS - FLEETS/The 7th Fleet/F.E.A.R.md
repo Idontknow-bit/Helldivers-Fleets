@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/f-e-a-r/"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/f-e-a-r/","noteIcon":"","created":"2024-03-16T22:56:28.628+01:00","updated":"2024-03-24T01:04:34.044+01:00"}
 ---
 
 ![Pasted image 20240316221756.png](/img/user/Images/Pasted%20image%2020240316221756.png)
