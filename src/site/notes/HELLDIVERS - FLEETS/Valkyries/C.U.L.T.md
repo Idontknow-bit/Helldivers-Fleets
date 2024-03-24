@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/c-u-l-t/"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/c-u-l-t/","noteIcon":"","created":"2024-03-22T23:55:27.808+01:00","updated":"2024-03-23T23:27:17.790+01:00"}
 ---
 
 ![cultmain.png](/img/user/Images/cultmain.png)
