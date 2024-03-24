@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/valkyries/"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/valkyries/","noteIcon":"","created":"2024-03-22T21:57:31.254+01:00","updated":"2024-03-23T23:39:37.309+01:00"}
 ---
 
 ![Vandalon_Blue_whiteFlag.png](/img/user/Images/Vandalon_Blue_whiteFlag.png)
