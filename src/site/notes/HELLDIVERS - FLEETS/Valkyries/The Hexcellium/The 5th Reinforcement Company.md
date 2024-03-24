@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/the-hexcellium/the-5th-reinforcement-company/"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/the-hexcellium/the-5th-reinforcement-company/","noteIcon":"","created":"2024-03-22T23:42:22.241+01:00","updated":"2024-03-23T23:27:29.175+01:00"}
 ---
 
 ![](https://lh7-us.googleusercontent.com/zZZOJzIi1895krd1aCF5KbTXOrEKvCNENsQlBM2H7Rnm8HivOPpfQgiPYDzPoyZzkO04VX9pl_zEPcC3YJ1lMy3-Gg3IKxJX_gwj8133TG181kA_p_IPfqxJAoWDz6q9GKghDG5DaLSHV4x5xcG1bQ)
