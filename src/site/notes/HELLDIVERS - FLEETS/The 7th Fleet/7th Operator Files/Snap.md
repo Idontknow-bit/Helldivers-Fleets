@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/7th-operator-files/snap/"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/7th-operator-files/snap/","noteIcon":"","created":"2024-03-20T21:09:06.809+01:00","updated":"2024-03-24T01:04:51.209+01:00"}
 ---
 
 
