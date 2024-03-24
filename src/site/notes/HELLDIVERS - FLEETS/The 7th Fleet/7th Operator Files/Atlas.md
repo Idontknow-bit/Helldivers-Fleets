@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/7th-operator-files/atlas/"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/7th-operator-files/atlas/","noteIcon":"","created":"2024-03-20T22:59:37.496+01:00","updated":"2024-03-24T01:04:25.730+01:00"}
 ---
 
 Subject: Arrival of mech pilot, Sentinel Atlas of the Tien Kwan Scorpions 
