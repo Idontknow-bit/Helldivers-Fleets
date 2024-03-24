@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/minutemen/mm-operator-files/ford/"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/minutemen/mm-operator-files/ford/","noteIcon":"","created":"2024-03-22T18:14:34.695+01:00","updated":"2024-03-23T23:28:39.607+01:00"}
 ---
 
 SES Wings of Redemption - Mister Ford 
