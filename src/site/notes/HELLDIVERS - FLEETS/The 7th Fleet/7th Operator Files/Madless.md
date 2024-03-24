@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/7th-operator-files/madless/"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/7th-operator-files/madless/","noteIcon":"","created":"2024-03-22T21:47:12.810+01:00","updated":"2024-03-24T01:04:42.693+01:00"}
 ---
 
 retrieve_helldiver_information("Madless") 
