@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/helldivers-fleets/home-page/","tags":["gardenEntry"]}
 ---
 
+# Homepage
+
+This is a work-in-progress.
+
+This Project is made by Snap
 ## Contents
 
 ### 7th Fleet
@@ -35,3 +40,7 @@
 
 ## Medals
 	[[HELLDIVERS - FLEETS/Medals and their meaning\|Medals and their meaning]]
+
+
+#### To get added
+Send me a message on Discord (goodguysnap)
