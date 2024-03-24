@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/the-hexcellium/the-88th-anti-tank-company/"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/the-hexcellium/the-88th-anti-tank-company/","noteIcon":"","created":"2024-03-22T23:35:43.834+01:00","updated":"2024-03-23T23:27:26.497+01:00"}
 ---
 
 ![](https://lh7-us.googleusercontent.com/DKEUiwSp1uy7qKP1BBJFdl7RjzuP2aOELj8Z5t5wqlECB3O5QAPMscQi7V5bQGliW8F5fuWiml8_ciAafP2OCMjG2N2tL_UmtRRbyCcUUllw4piX-KmzqwfC_xPCXXvQ0T4Xmo7DvM1qQ988pkZn0A)
