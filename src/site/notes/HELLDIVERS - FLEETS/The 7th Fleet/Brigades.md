@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/brigades/"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/brigades/","noteIcon":"","created":"2024-03-16T21:26:22.966+01:00","updated":"2024-03-24T01:04:15.137+01:00"}
 ---
 
 # 7th Fleet command
