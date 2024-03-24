@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/the-forgotten-sons/"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/the-forgotten-sons/","noteIcon":"","created":"2024-03-23T00:29:46.598+01:00","updated":"2024-03-23T23:27:07.614+01:00"}
 ---
 
 ![forgottensonsmain.png](/img/user/Images/forgottensonsmain.png)
