@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/durgen-sandworms/durgens-sandworms/"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/durgen-sandworms/durgens-sandworms/","noteIcon":"","created":"2024-03-21T22:29:40.626+01:00","updated":"2024-03-23T23:28:47.981+01:00"}
 ---
 
 ![Sandworms.png](/img/user/Images/Sandworms.png)
