@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/7th-operator-files/prometheus/"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/7th-operator-files/prometheus/","noteIcon":"","created":"2024-03-20T22:57:51.049+01:00","updated":"2024-03-24T01:04:48.414+01:00"}
 ---
 
  ------ COMMUNICATION LINK CONNECTING. ------
