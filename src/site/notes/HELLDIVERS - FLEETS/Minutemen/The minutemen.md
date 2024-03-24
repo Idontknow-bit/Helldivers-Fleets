@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/minutemen/the-minutemen/"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/minutemen/the-minutemen/","noteIcon":"","created":"2024-03-20T23:39:51.622+01:00","updated":"2024-03-23T23:28:26.005+01:00"}
 ---
 
 ![Pasted image 20240320235735.png](/img/user/Images/Pasted%20image%2020240320235735.png)
