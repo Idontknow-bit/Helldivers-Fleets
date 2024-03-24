@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/sister-of-liberty/"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/sister-of-liberty/","noteIcon":"","created":"2024-03-23T14:55:48.027+01:00","updated":"2024-03-23T23:27:12.535+01:00"}
 ---
 
 ![Sol_main.png](/img/user/Images/Sol_main.png)
