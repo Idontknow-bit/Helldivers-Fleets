@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/home-page/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/helldivers-fleets/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2024-03-23T23:17:23.464+01:00","updated":"2024-03-24T01:05:53.021+01:00"}
 ---
 
-# Homepage
+# Homepage 
 
 This is a work-in-progress.
-
 This Project is made by Snap
-## Contents
+
+## Contents:
 
 ### 7th Fleet
 	[[HELLDIVERS - FLEETS/The 7th Fleet/Brigades\|Brigades]]
