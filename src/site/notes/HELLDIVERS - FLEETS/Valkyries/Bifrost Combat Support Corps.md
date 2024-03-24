@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/bifrost-combat-support-corps/"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/bifrost-combat-support-corps/","noteIcon":"","created":"2024-03-23T02:41:56.487+01:00","updated":"2024-03-23T23:27:20.552+01:00"}
 ---
 
 ![BCSC_Main.png](/img/user/Images/BCSC_Main.png)
