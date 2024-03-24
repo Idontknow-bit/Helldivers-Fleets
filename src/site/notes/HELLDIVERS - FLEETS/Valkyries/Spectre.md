@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/spectre/"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/spectre/","noteIcon":"","created":"2024-03-23T15:43:25.217+01:00","updated":"2024-03-23T23:27:10.093+01:00"}
 ---
 
 ![STRlogomain.png](/img/user/Images/STRlogomain.png)
