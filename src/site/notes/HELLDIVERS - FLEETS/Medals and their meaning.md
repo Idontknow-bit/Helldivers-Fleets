@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/helldivers-fleets/medals-and-their-meaning/","noteIcon":"","created":"2024-03-17T00:32:02.056+01:00","updated":"2024-03-24T01:08:47.299+01:00"}
 ---
 
-# [[HELLDIVERS - FLEETS/The 7th Fleet/F.E.A.R\|F.E.A.R]]
+# [[HELLDIVERS - FLEETS/FEAR/F.E.A.R\|F.E.A.R]]
 
 ### Stim lord
 This medal was granted doing the **Stim Marathon Challenge** for most stims used
@@ -18,7 +18,7 @@ This medal was granted doing the **Stim Marathon Challenge** for third most stim
 **Granted to:**
 	Drop
 
-# [[HELLDIVERS - FLEETS/The 7th Fleet/The 82nd Jägers Bombs Brigade\|The 82nd Jägers Bombs Brigade]]
+# [[HELLDIVERS - FLEETS/Templars/The 82nd Jägers Bombs Brigade\|The 82nd Jägers Bombs Brigade]]
 
 ### Medal of Napalm
 This Medal is granted by embarking on a **Suicide or higher** mission while every member of the Fireteam is using fire weapons and stratagems, to destroy all enemy outposts and complete main objective, extraction is optional. 
