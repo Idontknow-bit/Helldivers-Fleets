@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/fear/f-e-a-r/","noteIcon":"","created":"2024-03-16T22:56:28.628+01:00","updated":"2024-03-24T01:04:34.044+01:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/fear/f-e-a-r/","noteIcon":"","created":"2024-03-16T22:56:28.628+01:00","updated":"2024-03-25T22:56:29.578+01:00"}
 ---
 
 ![Pasted image 20240316221756.png](/img/user/Images/Pasted%20image%2020240316221756.png)
@@ -22,5 +22,8 @@ E - Emergency
 A - Aid 
 R - Response unit.
 
+### Doctors on file
+[[HELLDIVERS - FLEETS/FEAR/Doctors on file/Darth\|Darth]], [[HELLDIVERS - FLEETS/FEAR/Doctors on file/Festive Gears\|Festive Gears]], [[HELLDIVERS - FLEETS/FEAR/Doctors on file/Metz\|Metz]]
+
 #### Source
-[[HELLDIVERS - FLEETS/The 7th Fleet/7th Operator Files/Darth\|Darth]]
+[[HELLDIVERS - FLEETS/FEAR/Doctors on file/Darth\|Darth]]
