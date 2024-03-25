@@ -41,7 +41,7 @@ With their newfound understanding of the creatures' weakness, the Durgen Helldiv
 They would later become known as the Durgen Sandworms, taking their foes intense strength and stealth, their unbreakable will and their difficult to find chink in their armor.
 
 #### Members on file
-[[HELLDIVERS - FLEETS/The 7th Fleet/7th Operator Files/Darth\|Darth]], [[HELLDIVERS - FLEETS/Durgen Sandworms/DS Operator Files/Tydus\|Tydus]], [[Zoomie\|Zoomie]]
+[[HELLDIVERS - FLEETS/FEAR/Doctors on file/Darth\|Darth]], [[HELLDIVERS - FLEETS/Durgen Sandworms/DS Operator Files/Tydus\|Tydus]], [[Zoomie\|Zoomie]]
 
 #### Source
 [[HELLDIVERS - FLEETS/Durgen Sandworms/DS Operator Files/Tydus\|Tydus]], [[Zoomie\|Zoomie]]
