@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/the-black-templars/templars-operator-files/prometheus/","noteIcon":"","created":"2024-03-20T22:57:51.049+01:00","updated":"2024-03-24T01:04:48.414+01:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/the-black-templars/templars-operator-files/prometheus/","noteIcon":"","created":"2024-03-20T22:57:51.049+01:00","updated":"2024-03-25T21:43:52.274+01:00"}
 ---
 
  ------ COMMUNICATION LINK CONNECTING. ------
@@ -18,9 +18,9 @@ Helldiver Callsign: Prometheus
 
 Templar Description:
 
-Marshal [REDACTED] "Prometheus" [REDACTED], is the 3rd Marshal of The Black Templars. Rising through the ranks at tremendous speed, "Prometheus" personally oversaw and authorized the reconstruction of the Grand Templar Crusade-Fleet. "Prometheus" is a fiery personality, but upon engagement is a stone-cold calculated killer. The Marshal was placed in charge of the Severin Sector and has been [[HELLDIVERS - FLEETS/The 7th Fleet/ARCHIVED/The Black Templars ARCHIVED\|The Black Templars ARCHIVED]] torch against the darkness encroaching inward from the Western Front, alongside his Marshal compatriot Taridon, of the Xzar Sector.
+Marshal Commander [REDACTED] "Prometheus" [REDACTED], is the 3rd Marshal Commander of The Black Templars. Rising through the ranks at tremendous speed, "Prometheus" personally oversaw and authorized the reconstruction of the Grand Templar Crusade-Fleet. "Prometheus" is a fiery personality, but upon engagement is a stone-cold calculated killer. The Marshal Commander was placed in charge of the Severin Sector and has been [[HELLDIVERS - FLEETS/The 7th Fleet/ARCHIVED/The Black Templars ARCHIVED\|The Black Templars ARCHIVED]] torch against the darkness encroaching inward from the Western Front, alongside his Marshal Commander compatriot Taridon, of the Xzar Sector.
 
-[AMMENDMENT: Xzar Sector Operations led by Marshal Taridon resulted in it's recapture.]
+[AMMENDMENT: Xzar Sector Operations led by Marshal Commander Taridon resulted in it's recapture.]
 
 "Prometheus" was a Cadet during the First Battle of Malevelon Creek, under the command of Cpt. Selina Orel, 211th SEAF Armed Division. The 211th were deployed into a hazardous hellscape and were ill-prepared for the conflict. After a 7-hour long battle "Prometheus" was the only man to survive the inital engagement with the Automaton force still at least 700 strong. There were no reports for the second half of that battle, no eye witness accounts, no camera footage from salvaged automatons. Because there were none left to salvage. Upon questioning from F.E.A.R Paramedics "Prometheus" had no response to the events of that night other than this:
 
@@ -54,7 +54,7 @@ Marshal [REDACTED] "Prometheus" [REDACTED], is the 3rd Marshal of The Black Temp
 
 [Items of Note]:
 
-- Marshal is highly attached to his Battle-Brothers, as was proven at Malevelon Creek. Where he allegedly killed 700 Automatons on his own.
+- Marshal Commander is highly attached to his Battle-Brothers, as was proven at Malevelon Creek. Where he allegedly killed 700 Automatons on his own.
 - This man is not to be trifled with, despite his friendly outward demeanour he has been known to spill blood and oil on unprecedented scales.
 - His willingness to [REDACTED] upon a word from [REDACTED] should be taken into account. He is fiercely loyal.
 - UNDER NO CIRCUMSTANCES SEPERATE THIS TEMPLAR FROM HIS STIMS
