@@ -22,7 +22,7 @@ Our shadowed armor protects us from view, our faith protects us from harm.
 [[HELLDIVERS - FLEETS/The Black Templars/Templars Operator files/Madless\|Madless]]
 [[HELLDIVERS - FLEETS/The Black Templars/Templars Operator files/Prometheus\|Prometheus]]
 [[HELLDIVERS - FLEETS/The Black Templars/Templars Operator files/Taridon\|Taridon]]
-[[King Ghost\|King Ghost]]
+[[HELLDIVERS - FLEETS/The Black Templars/Templars Operator files/King Ghost\|King Ghost]]
 
 #### Source
 [[HELLDIVERS - FLEETS/The Black Templars/Templars Operator files/Prometheus\|Prometheus]]
