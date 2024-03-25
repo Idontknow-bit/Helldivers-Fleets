@@ -11,10 +11,10 @@ This Project is made by Snap
 
 ### 7th Fleet
 	[[HELLDIVERS - FLEETS/The 7th Fleet/Brigades\|Brigades]]
-	[[HELLDIVERS - FLEETS/The 7th Fleet/F.E.A.R\|F.E.A.R]]
-	[[HELLDIVERS - FLEETS/The 7th Fleet/The Black Templars\|The Black Templars]]
+	[[HELLDIVERS - FLEETS/FEAR/F.E.A.R\|F.E.A.R]]
+	[[HELLDIVERS - FLEETS/Templars/The Black Templars\|The Black Templars]]
 	[[HELLDIVERS - FLEETS/The 7th Fleet/Mechanical Tien Kwan Scorpions\|Mechanical Tien Kwan Scorpions]]
-	[[HELLDIVERS - FLEETS/The 7th Fleet/The 82nd Jägers Bombs Brigade\|The 82nd Jägers Bombs Brigade]]
+	[[HELLDIVERS - FLEETS/Templars/The 82nd Jägers Bombs Brigade\|The 82nd Jägers Bombs Brigade]]
 
 ### Valkyries
 	[[HELLDIVERS - FLEETS/Valkyries/Valkyries\|Valkyries]]
