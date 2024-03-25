@@ -18,7 +18,7 @@ This medal was granted doing the **Stim Marathon Challenge** for third most stim
 **Granted to:**
 	Drop
 
-# [[HELLDIVERS - FLEETS/Templars/The 82nd Jägers Bombs Brigade\|The 82nd Jägers Bombs Brigade]]
+# [[HELLDIVERS - FLEETS/The Black Templars/The 82nd Jägers Bombs Brigade\|The 82nd Jägers Bombs Brigade]]
 
 ### Medal of Napalm
 This Medal is granted by embarking on a **Suicide or higher** mission while every member of the Fireteam is using fire weapons and stratagems, to destroy all enemy outposts and complete main objective, extraction is optional. 
