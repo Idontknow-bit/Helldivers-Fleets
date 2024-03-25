@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/brigades/","noteIcon":"","created":"2024-03-16T21:26:22.966+01:00","updated":"2024-03-25T19:31:44.215+01:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/brigades/","noteIcon":"","created":"2024-03-16T21:26:22.966+01:00","updated":"2024-03-25T23:03:20.843+01:00"}
 ---
 
 # 7th Fleet command
 
-![7th Fleet.png](/img/user/Images/7th%20Fleet.png)
 
 [[Mayhem\|Mayhem]] - Commanding Officer
 
@@ -28,34 +27,7 @@
 	PingChi | Trooper
 
 [[HELLDIVERS - FLEETS/The 7th Fleet/Fireteam X\|Fireteam X]]
-## [[HELLDIVERS - FLEETS/FEAR/F.E.A.R\|F.E.A.R]]
 
-**Command**
-	Hades | Medical General
-	DuskFae | Chief Medical Director
-
-**Medical Directors**
-	Festive Gears | Medical Director
-	DarthDDB | Medical Director
-	Metz | Medical Director
-
-**Special Ops Medic**
-	Piziera
-	Barak50cal
-
-**Field Medic II**
-	Kizu-Kun
-	Vib3kag3
-	WarMonger
-	Yeladirish
-
-**Field Medic I**
-	Drop
-	Dr. Thomas Kanaris
-	Jarod
-	Shaserra
-	Unseen
-	Vuokko
 ## II Company
 
 ## IV Company
