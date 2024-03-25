@@ -28,7 +28,7 @@
 	PingChi | Trooper
 
 [[HELLDIVERS - FLEETS/The 7th Fleet/Fireteam X\|Fireteam X]]
-## [[HELLDIVERS - FLEETS/The 7th Fleet/F.E.A.R\|F.E.A.R]]
+## [[HELLDIVERS - FLEETS/FEAR/F.E.A.R\|F.E.A.R]]
 
 **Command**
 	Hades | Medical General
@@ -57,7 +57,7 @@
 	Unseen
 	Vuokko
 ## II Company
-## III Company -  [[HELLDIVERS - FLEETS/The 7th Fleet/The Black Templars\|The Black Templars]]
+## III Company -  [[HELLDIVERS - FLEETS/Templars/The Black Templars\|The Black Templars]]
 
 **Command**
 	Revenant | High Marshal
@@ -65,7 +65,7 @@
 
 **Marshals**
 	Madless | Marshal
-	[[HELLDIVERS - FLEETS/The 7th Fleet/7th Operator Files/Prometheus\|Prometheus]] | Marshal
+	[[HELLDIVERS - FLEETS/Templars/Templars Operator files/Prometheus\|Prometheus]] | Marshal
 	Taridon | Marshal
 
 **Sword Brother**
@@ -91,7 +91,7 @@
 
 ## V Company
 
-## VI Company - [[HELLDIVERS - FLEETS/The 7th Fleet/The 82nd Jägers Bombs Brigade\|The 82nd Jägers Bombs Brigade]]
+## VI Company - [[HELLDIVERS - FLEETS/Templars/The 82nd Jägers Bombs Brigade\|The 82nd Jägers Bombs Brigade]]
 
 **Command**
 	Gibby | Commander
