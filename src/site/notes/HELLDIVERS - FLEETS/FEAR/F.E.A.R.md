@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/fear/f-e-a-r/","noteIcon":"","created":"2024-03-16T22:56:28.628+01:00","updated":"2024-03-25T22:56:29.578+01:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/fear/f-e-a-r/","noteIcon":"","created":"2024-03-16T22:56:28.628+01:00","updated":"2024-03-25T23:03:50.925+01:00"}
 ---
 
 ![Pasted image 20240316221756.png](/img/user/Images/Pasted%20image%2020240316221756.png)
@@ -10,6 +10,36 @@ HQ: Orbiting Klen Dahth II
 Members: ~68
 
 [[HELLDIVERS - FLEETS/Medals and their meaning\|Medals and their meaning]]
+
+## COC
+
+**Command**
+	Hades | Medical General
+	DuskFae | Chief Medical Director
+
+**Medical Directors**
+	Festive Gears | Medical Director
+	DarthDDB | Medical Director
+	Metz | Medical Director
+
+**Special Ops Medic**
+	Piziera
+	Barak50cal
+
+**Field Medic II**
+	Kizu-Kun
+	Vib3kag3
+	WarMonger
+	Yeladirish
+
+**Field Medic I**
+	Drop
+	Dr. Thomas Kanaris
+	Jarod
+	Shaserra
+	Unseen
+	Vuokko
+
 ## Lore
 F.E.A.R is a medical unit that was created due to the increased casualties around the galaxy.
 
