@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/brigades/","noteIcon":"","created":"2024-03-16T21:26:22.966+01:00","updated":"2024-03-24T01:04:15.137+01:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/the-7th-fleet/brigades/","noteIcon":"","created":"2024-03-16T21:26:22.966+01:00","updated":"2024-03-25T19:31:44.215+01:00"}
 ---
 
 # 7th Fleet command
@@ -57,60 +57,10 @@
 	Unseen
 	Vuokko
 ## II Company
-## III Company -  [[HELLDIVERS - FLEETS/Templars/The Black Templars\|The Black Templars]]
-
-**Command**
-	Revenant | High Marshal
-	Erock | Marshal Commander
-
-**Marshals**
-	Madless | Marshal
-	[[HELLDIVERS - FLEETS/Templars/Templars Operator files/Prometheus\|Prometheus]] | Marshal
-	Taridon | Marshal
-
-**Sword Brother**
-	A Loaf of Fruitcake | SB
-	NewfieGuy | SB
-
-**Crusaders**
-	Dominus Dubbya | Crusader
-	Sodium | Crusader
-	VET Tad | Crusader
-	Laskt | Crusader
-
-**Intiates**
-	Yutez 
-	Von Grapple 
-	Legitbit
-    Rat
-    Spaten Twitty
-    Frozty 
-    Seth "GhostKing" Sampson
 
 ## IV Company
 
 ## V Company
-
-## VI Company - [[HELLDIVERS - FLEETS/Templars/The 82nd Jägers Bombs Brigade\|The 82nd Jägers Bombs Brigade]]
-
-**Command**
-	Gibby | Commander
-	Truth | Command
-	Jarjar | Command
-
-**Bomber Crew Chief**
-	Unavailable
-	Jesus
-
-**Jäger Brigadier**
-	Talvi
-	ICUmoney
-
-**Jäger Bomber**
-	Default rank
-
-**Jäger Trainee**
-	Newbies
 
 ## VII Company
 
