@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2024-03-23T23:17:23.464+01:00","updated":"2024-03-25T19:25:41.607+01:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2024-03-23T23:17:23.464+01:00","updated":"2024-03-25T20:14:13.553+01:00"}
 ---
 
 # Homepage 
@@ -39,6 +39,9 @@ This Project is made by Snap
 
 ### Durgen Sandworms
 	[[HELLDIVERS - FLEETS/Durgen Sandworms/Durgens Sandworms\|Durgens Sandworms]]
+
+### Crusaders of Mort
+	[[HELLDIVERS - FLEETS/Crusaders of Mort/Crusaders of Mort\|Crusaders of Mort]]
 
 # Ranking Structure
 	[[HELLDIVERS - FLEETS/Ranking Structure\|Ranking Structure]]
