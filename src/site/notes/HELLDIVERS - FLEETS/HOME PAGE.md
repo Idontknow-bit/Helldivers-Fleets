@@ -18,8 +18,8 @@ This Project is made by Snap
 	[[HELLDIVERS - FLEETS/FEAR/F.E.A.R\|F.E.A.R]]
 
 ### The Black Templars
-	[[HELLDIVERS - FLEETS/Templars/The Black Templars\|The Black Templars]]
-	[[HELLDIVERS - FLEETS/Templars/The 82nd Jägers Bombs Brigade\|The 82nd Jägers Bombs Brigade]]
+	[[HELLDIVERS - FLEETS/The Black Templars/The Black Templars\|The Black Templars]]
+	[[HELLDIVERS - FLEETS/The Black Templars/The 82nd Jägers Bombs Brigade\|The 82nd Jägers Bombs Brigade]]
 
 ### Valkyries
 	[[HELLDIVERS - FLEETS/Valkyries/Valkyries\|Valkyries]]
