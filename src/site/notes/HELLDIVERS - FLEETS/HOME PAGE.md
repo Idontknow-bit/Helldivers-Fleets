@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2024-03-23T23:17:23.464+01:00","updated":"2024-03-25T23:05:03.450+01:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2024-03-23T23:17:23.464+01:00","updated":"2024-03-26T23:07:25.751+01:00"}
 ---
 
 # Homepage 
@@ -10,8 +10,7 @@ This Project is made by Snap
 ## Contents:
 
 ### 7th Fleet
-	[[HELLDIVERS - FLEETS/The 7th Fleet/Brigades\|Brigades]]
-	[[HELLDIVERS - FLEETS/The 7th Fleet/Mechanical Tien Kwan Scorpions\|Mechanical Tien Kwan Scorpions]]
+	[[HELLDIVERS - FLEETS/ARCHIVED/Brigades\|Brigades]]
 	[[HELLDIVERS - FLEETS/The 7th Fleet/The Vanguard\|The Vanguard]]
 
 ### FEAR
@@ -20,6 +19,7 @@ This Project is made by Snap
 ### The Black Templars
 	[[HELLDIVERS - FLEETS/The Black Templars/The Black Templars\|The Black Templars]]
 	[[HELLDIVERS - FLEETS/The Black Templars/The 82nd Jägers Bombs Brigade\|The 82nd Jägers Bombs Brigade]]
+	[[HELLDIVERS - FLEETS/Mechanical Tien Kwan Scorpions\|Mechanical Tien Kwan Scorpions]]
 
 ### Valkyries
 	[[HELLDIVERS - FLEETS/Valkyries/Valkyries\|Valkyries]]
