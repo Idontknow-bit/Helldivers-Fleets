@@ -19,7 +19,7 @@ This Project is made by Snap
 ### The Black Templars
 	[[HELLDIVERS - FLEETS/The Black Templars/The Black Templars\|The Black Templars]]
 	[[HELLDIVERS - FLEETS/The Black Templars/The 82nd Jägers Bombs Brigade\|The 82nd Jägers Bombs Brigade]]
-	[[HELLDIVERS - FLEETS/Mechanical Tien Kwan Scorpions\|Mechanical Tien Kwan Scorpions]]
+	[[HELLDIVERS - FLEETS/The Black Templars/Mechanical Tien Kwan Scorpions\|Mechanical Tien Kwan Scorpions]]
 
 ### Valkyries
 	[[HELLDIVERS - FLEETS/Valkyries/Valkyries\|Valkyries]]
