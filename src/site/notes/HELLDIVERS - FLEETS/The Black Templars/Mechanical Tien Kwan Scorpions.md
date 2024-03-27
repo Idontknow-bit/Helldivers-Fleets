@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/mechanical-tien-kwan-scorpions/","noteIcon":"","created":"2024-03-16T22:45:52.325+01:00","updated":"2024-03-26T18:48:26.539+01:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/the-black-templars/mechanical-tien-kwan-scorpions/","noteIcon":"","created":"2024-03-16T22:45:52.325+01:00","updated":"2024-03-26T18:48:26.539+01:00"}
 ---
 
 ![Scorpions2.png](/img/user/Images/Scorpions2.png)
@@ -26,12 +26,12 @@ _**Armatae fortitudinis, Gratia venenata.**_
 ![helldivers_2_jnauts1.webp](/img/user/Images/helldivers_2_jnauts1.webp)
 
 
-##  [[HELLDIVERS - FLEETS/Mechanical Tien Kwan Scorpions\|Mechanical Tien Kwan Scorpions]]
+##  [[HELLDIVERS - FLEETS/The Black Templars/Mechanical Tien Kwan Scorpions\|Mechanical Tien Kwan Scorpions]]
 **Command**
 	Carl | Captain
 
 **1st LT of Scorpions**
-	[[HELLDIVERS - FLEETS/The 7th Fleet/7th Operator Files/Atlas\|Atlas]] | Lieutenant
+	[[HELLDIVERS - FLEETS/The Black Templars/Templars Operator files/Atlas\|Atlas]] | Lieutenant
 
 **2nd LT of Scorpions**
 	Vextus | Lieutenant
@@ -47,7 +47,7 @@ _**Armatae fortitudinis, Gratia venenata.**_
 
 
 ### Members on file
-[[HELLDIVERS - FLEETS/The 7th Fleet/7th Operator Files/Atlas\|Atlas]]
+[[HELLDIVERS - FLEETS/The Black Templars/Templars Operator files/Atlas\|Atlas]]
 
 #### Source
-[[HELLDIVERS - FLEETS/The 7th Fleet/7th Operator Files/Atlas\|Atlas]]
+[[HELLDIVERS - FLEETS/The Black Templars/Templars Operator files/Atlas\|Atlas]]
