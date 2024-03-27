@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2024-03-23T23:17:23.464+01:00","updated":"2024-03-27T01:50:12.760+01:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2024-03-23T23:17:23.464+01:00","updated":"2024-03-27T13:30:44.592+01:00"}
 ---
 
 # Homepage 
+
+#### I am on Vacation all changes will first take affect after the aprill 1 
 
 This is a work-in-progress.
 This Project is made by Snap
