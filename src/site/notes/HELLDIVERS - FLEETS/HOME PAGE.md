@@ -38,7 +38,7 @@ This Project is made by Snap
 	[[HELLDIVERS - FLEETS/Minutemen/Hammers of Judgement\|Hammers of Judgement]]
 
 ### Durgen Sandworms
-	[[HELLDIVERS - FLEETS/Durgen Sandworms/Durgens Sandworms\|Durgens Sandworms]]
+	[[HELLDIVERS - FLEETS/Durgen Sandworms/DS Lore/Durgens Sandworms\|Durgens Sandworms]]
 
 ### Crusaders of Mort
 	[[HELLDIVERS - FLEETS/Crusaders of Mort/Crusaders of Mort\|Crusaders of Mort]]
