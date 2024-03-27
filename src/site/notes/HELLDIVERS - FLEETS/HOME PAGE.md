@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2024-03-23T23:17:23.464+01:00","updated":"2024-03-26T23:07:25.751+01:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2024-03-23T23:17:23.464+01:00","updated":"2024-03-27T01:46:07.901+01:00"}
 ---
 
 # Homepage 
@@ -48,6 +48,9 @@ This Project is made by Snap
 
 ### TII
 	[[HELLDIVERS - FLEETS/Terran Intelligence Institute/Terran Intelligence Institute\|Terran Intelligence Institute]]
+
+### 233rd Combat Arms Regiment
+	[[HELLDIVERS - FLEETS/223rd Combat Arms Regiment\|223rd Combat Arms Regiment]]
 
 # Ranking Structure
 	[[HELLDIVERS - FLEETS/Ranking Structure\|Ranking Structure]]
