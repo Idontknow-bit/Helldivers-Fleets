@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/crusaders-of-mort/crusaders-of-mort/","noteIcon":"","created":"2024-03-25T20:09:22.261+01:00","updated":"2024-04-01T23:36:24.471+02:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/crusaders-of-mort/crusaders-of-mort/","noteIcon":"","created":"2024-03-25T20:09:22.261+01:00","updated":"2024-04-01T23:36:40.027+02:00"}
 ---
 
 ![Pasted image 20240325201339.png](/img/user/Images/Pasted%20image%2020240325201339.png)
@@ -8,6 +8,7 @@ Commander: [[Squackle\|Squackle]]
 Home planet: Mort
 Members: ~475
 
+[[HELLDIVERS - FLEETS/Crusaders of Mort/Crusaders of Mort Archived\|Crusaders of Mort Archived]]
 ## Lore
 When the automaton socialists began their cowardly invasion of our home planet Mort, the Ministry of War had the foresight to know that brave Morticians on the planet would take up the call to defend their posterity. The Crusaders of Mort was activated on Februrary 25, 2024 and strives to be the main force that drives the robotic scum of the Xzar Sector. 
 
