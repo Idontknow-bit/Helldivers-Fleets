@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/to-do/","noteIcon":"","created":"2024-03-26T21:55:15.384+01:00","updated":"2024-04-01T22:18:36.304+02:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/to-do/","noteIcon":"","created":"2024-03-26T21:55:15.384+01:00","updated":"2024-04-01T23:29:18.977+02:00"}
 ---
 
 - [ ] Update Crusaders of Mort
@@ -11,8 +11,8 @@
 	- [x] The lore about Birb
 - [x] Prometheus as CM
 - [ ] 223rd CAR
-- [ ] Finish the 77th
-- [ ] CULT has been dissolved
+- [x] Finish the 77th
+- [x] CULT has been dissolved
 - [ ] Add Vice to the Valkryies
 - [ ] Change SESF to SEV in 223rd Files
 - [ ] 
