@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/valkyrie-operators/brib/","noteIcon":"","created":"2024-03-26T22:30:59.605+01:00","updated":"2024-03-26T22:31:56.404+01:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/valkyrie-operators/brib/","noteIcon":"","created":"2024-03-26T22:30:59.605+01:00","updated":"2024-04-01T22:18:21.713+02:00"}
 ---
 
 **Rank:** Admiral
@@ -38,4 +38,4 @@ Admiral Reign "Frigg" Aetos' legacy as a leader and warrior is one of excellence
 
 *For more information about Admiral Reign "Frigg" Aetos and her military accomplishments please see the Military of Truth*
 
-![Pasted image 20240326223111.png](/img/user/Images/Pasted%20image%2020240326223111.png)
+![Pasted image 20240326223111.png](/img/user/Images/Pasted%20image%2020240326223111.png) 
