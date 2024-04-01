@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/223rd-valiant-vultures/223rd-combat-arms-regiment/","noteIcon":"","created":"2024-03-26T23:35:51.112+01:00","updated":"2024-03-26T23:59:28.824+01:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/223rd-valiant-vultures/223rd-combat-arms-regiment/","noteIcon":"","created":"2024-03-26T23:35:51.112+01:00","updated":"2024-04-02T00:02:30.937+02:00"}
 ---
 
 aka Valiant Vultures
@@ -16,7 +16,7 @@ The 223rd Combat Arms Regiment was established as the 223rd S.E.D.F., operating 
 It was originally under the leadership of Admiral Lathrop G. 
 Sisk, and was later transferred into the 54th Artillery Division. 
 
-However, upon the second deployment of the Helldivers, it was subsumed within the S.E.S.F. and its purpose was changed. 
+However, upon the second deployment of the Helldivers, it was subsumed within the S.E.V and its purpose was changed. 
 
 Now, the 223rd Regiment operates exclusively as Liberty's right hand in the fight against The Automaton Menace!
 
