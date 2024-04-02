@@ -18,4 +18,4 @@ Members: ~10
 ### Members on File
 
 #### Sources
-[[Scorpius\|Scorpius]]
+[[HELLDIVERS - FLEETS/Valkyries/Valkyrie Operators/Scorpius\|Scorpius]]
