@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2024-03-23T23:17:23.464+01:00","updated":"2024-04-01T18:51:32.784+02:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2024-03-23T23:17:23.464+01:00","updated":"2024-04-02T22:54:24.291+02:00"}
 ---
 
 # Homepage 
@@ -53,7 +53,11 @@ This Project is made by Snap
 ### 233rd Combat Arms Regiment
 	[[HELLDIVERS - FLEETS/223rd Valiant Vultures/223rd Combat Arms Regiment\|223rd Combat Arms Regiment]]
 
-
+### The Fenrir III - Wolf Pack
+	[[HELLDIVERS - FLEETS/Fenrir III/Fenrir III - Wolf Pack\|Fenrir III - Wolf Pack]]
+	[[HELLDIVERS - FLEETS/Fenrir III/Ares Squad\|Ares Squad]]
+	[[HELLDIVERS - FLEETS/Fenrir III/Bering Squad\|Bering Squad]]
+	[[HELLDIVERS - FLEETS/Fenrir III/Chiron Squad\|Chiron Squad]]
 
 # Ranking Structure
 	[[HELLDIVERS - FLEETS/Ranking Structure\|Ranking Structure]]
