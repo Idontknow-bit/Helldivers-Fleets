@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/to-do/","noteIcon":"","created":"2024-03-26T21:55:15.384+01:00","updated":"2024-04-02T01:04:03.124+02:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/to-do/","noteIcon":"","created":"2024-03-26T21:55:15.384+01:00","updated":"2024-04-02T03:30:21.154+02:00"}
 ---
 
 - [x] Update Crusaders of Mort
@@ -11,6 +11,8 @@
 	- [x] The lore about Birb
 - [x] Prometheus as CM
 - [ ] 223rd CAR
+	- [ ] Medals
+	- [ ] Documents
 - [x] Finish the 77th
 - [x] CULT has been dissolved
 - [ ] Add Vice to the Valkryies
