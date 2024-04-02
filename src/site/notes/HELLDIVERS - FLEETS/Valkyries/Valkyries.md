@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/valkyries/","noteIcon":"","created":"2024-03-22T21:57:31.254+01:00","updated":"2024-03-23T23:39:37.309+01:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/valkyries/","noteIcon":"","created":"2024-03-22T21:57:31.254+01:00","updated":"2024-04-02T00:24:01.311+02:00"}
 ---
 
 ![Vandalon_Blue_whiteFlag.png](/img/user/Images/Vandalon_Blue_whiteFlag.png)
@@ -7,7 +7,8 @@
 # General
 Commander: 
 Home planet: Vandalon
-Members: ~220
+Members: ~234
+
 ## Companies
 [[HELLDIVERS - FLEETS/Valkyries/The Hexcellium/Hexcellium\|Hexcellium]]
 [[HELLDIVERS - FLEETS/Valkyries/C.U.L.T\|C.U.L.T]]
