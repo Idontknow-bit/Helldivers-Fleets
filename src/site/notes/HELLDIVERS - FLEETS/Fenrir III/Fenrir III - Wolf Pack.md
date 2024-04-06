@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/fenrir-iii/fenrir-iii-wolf-pack/","noteIcon":"","created":"2024-04-02T22:11:51.642+02:00","updated":"2024-04-02T22:18:56.772+02:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/fenrir-iii/fenrir-iii-wolf-pack/","noteIcon":"","created":"2024-04-02T22:11:51.642+02:00","updated":"2024-04-06T01:07:29.955+02:00"}
 ---
 
 ![Fenrir Wolfpack.jpg](/img/user/Images/Fenrir%20Wolfpack.jpg)
@@ -20,7 +20,7 @@ Chiron squadron, named after the wise and skilled centaur of Greek mythology, is
 Operating under the cloak of darkness, the Wolf Pack Helldivers strike fear into the hearts of their enemies, leaving no trace behind as they execute their missions with precision and cunning. Their reputation as masters of stealth and covert operations makes them a formidable force on the battlefield, capable of turning the tide of war in their favour.
 
 ### Members on file
-[[HELLDIVERS - FLEETS/Fenrir III/Fenrir Operators/Vall\|Vall]]
+[[HELLDIVERS - FLEETS/Fenrir III/Fenrir Operators/Regen\|Regen]]
 
 #### Sources
-[[HELLDIVERS - FLEETS/Fenrir III/Fenrir Operators/Vall\|Vall]]
+[[HELLDIVERS - FLEETS/Fenrir III/Fenrir Operators/Regen\|Regen]]
