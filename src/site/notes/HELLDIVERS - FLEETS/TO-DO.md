@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/to-do/","noteIcon":"","created":"2024-03-26T21:55:15.384+01:00","updated":"2024-04-02T03:30:21.154+02:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/to-do/","noteIcon":"","created":"2024-03-26T21:55:15.384+01:00","updated":"2024-04-06T01:53:54.639+02:00"}
 ---
 
 - [x] Update Crusaders of Mort
@@ -18,3 +18,11 @@
 - [ ] Add Vice to the Valkryies
 - [x] Change SESF to SEV in 223rd Files
 - [x] Bully Blu
+- [ ] Add AVE to Homepage
+- [x] Add logo to SEV
+- [ ] Sandworms COC update
+- [ ] Add Doctors to fear files
+- [ ] Find Stasis0001 and Hush.0170
+	- [ ] Hush
+	- [ ] Stasis
+- [ ] 
