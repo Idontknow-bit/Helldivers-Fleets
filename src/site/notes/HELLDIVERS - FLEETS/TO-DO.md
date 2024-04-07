@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/to-do/","noteIcon":"","created":"2024-03-26T21:55:15.384+01:00","updated":"2024-04-06T23:42:13.883+02:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/to-do/","noteIcon":"","created":"2024-03-26T21:55:15.384+01:00","updated":"2024-04-07T03:07:47.632+02:00"}
 ---
 
 - [x] Update Crusaders of Mort
@@ -22,9 +22,12 @@
 - [x] Add logo to SEV
 - [ ] Sandworms COC update
 - [ ] Add Doctors to fear files
-- [ ] Find Stasis0001 and Hush.0170
-	- [ ] Hush
-	- [ ] Stasis
+- [x] Find Stasis0001 and Hush.0170
+	- [ ] Get info from Hush
+	- [ ] Get info from Stasis
 - [ ] Update Fenrir III logo
 - [ ] Add Tempest
 - [ ] Crusaders of Mort CoC
+- [ ] Add the Roughneck docs 
+- [ ] Ubanean Guard
+- [ ] Put the CULT in the archives
