@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/to-do/","noteIcon":"","created":"2024-03-26T21:55:15.384+01:00","updated":"2024-04-07T03:07:47.632+02:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/to-do/","noteIcon":"","created":"2024-03-26T21:55:15.384+01:00","updated":"2024-04-07T23:45:56.980+02:00"}
 ---
 
 - [x] Update Crusaders of Mort
@@ -31,3 +31,6 @@
 - [ ] Add the Roughneck docs 
 - [ ] Ubanean Guard
 - [ ] Put the CULT in the archives
+- [ ] Update lore for Hexcellium
+	- [ ] New Companies
+	- [ ] Lore updates
