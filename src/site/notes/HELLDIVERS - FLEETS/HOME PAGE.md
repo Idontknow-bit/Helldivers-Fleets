@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2024-03-23T23:17:23.464+01:00","updated":"2024-04-02T22:54:24.291+02:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2024-03-23T23:17:23.464+01:00","updated":"2024-04-13T18:34:23.917+02:00"}
 ---
 
 # Homepage 
@@ -7,22 +7,22 @@
 
 This is a work-in-progress.
 This Project is made by Snap
-
+- - - 
 ## Contents:
 
-### 7th Fleet
+#### 7th Fleet
 	[[HELLDIVERS - FLEETS/ARCHIVED/Brigades\|Brigades]]
 	[[HELLDIVERS - FLEETS/The 7th Fleet/The Vanguard\|The Vanguard]]
 
-### FEAR
+#### FEAR
 	[[HELLDIVERS - FLEETS/FEAR/F.E.A.R\|F.E.A.R]]
 
-### The Black Templars
+#### The Black Templars
 	[[HELLDIVERS - FLEETS/The Black Templars/The Black Templars\|The Black Templars]]
 	[[HELLDIVERS - FLEETS/The Black Templars/The 82nd Jägers Bombs Brigade\|The 82nd Jägers Bombs Brigade]]
 	[[HELLDIVERS - FLEETS/The Black Templars/Mechanical Tien Kwan Scorpions\|Mechanical Tien Kwan Scorpions]]
 
-### Valkyries
+#### Valkyries
 	[[HELLDIVERS - FLEETS/Valkyries/Valkyries\|Valkyries]]
 	[[HELLDIVERS - FLEETS/Valkyries/The Hexcellium/Hexcellium\|Hexcellium]]
 	[[HELLDIVERS - FLEETS/Valkyries/C.U.L.T\|C.U.L.T]]
@@ -32,32 +32,35 @@ This Project is made by Snap
 	[[HELLDIVERS - FLEETS/Valkyries/Bifrost Combat Support Corps\|Bifrost Combat Support Corps]]
 	[[HELLDIVERS - FLEETS/Valkyries/Sister of Liberty\|Sister of Liberty]]
 	[[HELLDIVERS - FLEETS/Valkyries/Spectre\|Spectre]]
+	[[HELLDIVERS - FLEETS/Valkyries/Anthem Versifier Enforcer\|Anthem Versifier Enforcer]]
 
-### Minute Men
+#### Minute Men
 	[[HELLDIVERS - FLEETS/Minutemen/The minutemen\|The minutemen]]
 	[[HELLDIVERS - FLEETS/Minutemen/Mudrats\|Mudrats]]
 	[[HELLDIVERS - FLEETS/Minutemen/Hammers of Judgement\|Hammers of Judgement]]
 
-### Durgen Sandworms
+#### Durgen Sandworms
 	[[HELLDIVERS - FLEETS/Durgen Sandworms/DS Lore/Durgens Sandworms\|Durgens Sandworms]]
 
-### Crusaders of Mort
+#### Crusaders of Mort
 	[[HELLDIVERS - FLEETS/Crusaders of Mort/Crusaders of Mort\|Crusaders of Mort]]
 
-### SCAR
+#### SCAR
 	[[HELLDIVERS - FLEETS/SCAR/Special Combat Assault Reserve\|Special Combat Assault Reserve]]
 
-### TII
+#### TII
 	[[HELLDIVERS - FLEETS/Terran Intelligence Institute/Terran Intelligence Institute\|Terran Intelligence Institute]]
 
-### 233rd Combat Arms Regiment
+#### 233rd Combat Arms Regiment
 	[[HELLDIVERS - FLEETS/223rd Valiant Vultures/223rd Combat Arms Regiment\|223rd Combat Arms Regiment]]
 
-### The Fenrir III - Wolf Pack
+#### The Fenrir III - Wolf Pack
 	[[HELLDIVERS - FLEETS/Fenrir III/Fenrir III - Wolf Pack\|Fenrir III - Wolf Pack]]
 	[[Ares Squad\|Ares Squad]]
 	[[HELLDIVERS - FLEETS/Fenrir III/Bering Squad\|Bering Squad]]
 	[[HELLDIVERS - FLEETS/Fenrir III/Chiron Squad\|Chiron Squad]]
+
+- - - 
 
 # Ranking Structure
 	[[HELLDIVERS - FLEETS/Ranking Structure\|Ranking Structure]]
@@ -65,6 +68,6 @@ This Project is made by Snap
 ## Medals
 	[[HELLDIVERS - FLEETS/Medals and their meaning\|Medals and their meaning]]
 
-
+- - -
 #### To get added
 Send me a message on Discord (goodguysnap)
