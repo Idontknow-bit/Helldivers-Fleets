@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/to-do/","noteIcon":"","created":"2024-03-26T21:55:15.384+01:00","updated":"2024-04-13T18:06:20.228+02:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/to-do/","noteIcon":"","created":"2024-03-26T21:55:15.384+01:00","updated":"2024-04-13T23:50:46.908+02:00"}
 ---
 
 - [x] Update Crusaders of Mort
@@ -27,6 +27,7 @@
 	- [ ] Get info from Stasis
 - [x] Update Fenrir III logo
 - [ ] Add Tempest
+	- [ ] Check DM from S1th
 - [x] Crusaders of Mort CoC
 - [ ] Add the Roughneck docs 
 - [x] Ubanean Guard
