@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2024-03-23T23:17:23.464+01:00","updated":"2024-04-13T18:34:23.917+02:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2024-03-23T23:17:23.464+01:00","updated":"2024-04-13T18:41:37.622+02:00"}
 ---
 
 # Homepage 
@@ -25,7 +25,7 @@ This Project is made by Snap
 #### Valkyries
 	[[HELLDIVERS - FLEETS/Valkyries/Valkyries\|Valkyries]]
 	[[HELLDIVERS - FLEETS/Valkyries/The Hexcellium/Hexcellium\|Hexcellium]]
-	[[HELLDIVERS - FLEETS/Valkyries/C.U.L.T\|C.U.L.T]]
+	[[HELLDIVERS - FLEETS/Valkyries/C.U.L.T\|C.U.L.T]] no longer in service 
 	[[HELLDIVERS - FLEETS/Valkyries/MIST\|MIST]]
 	[[HELLDIVERS - FLEETS/Valkyries/Valkyries Special Air Force\|Valkyries Special Air Force]]
 	[[HELLDIVERS - FLEETS/Valkyries/The Forgotten Sons\|The Forgotten Sons]]
