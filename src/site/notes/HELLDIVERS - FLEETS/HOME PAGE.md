@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2024-03-23T23:17:23.464+01:00","updated":"2024-04-13T18:41:37.622+02:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2024-03-23T23:17:23.464+01:00","updated":"2024-04-14T01:10:40.871+02:00"}
 ---
 
 # Homepage 
@@ -56,7 +56,7 @@ This Project is made by Snap
 
 #### The Fenrir III - Wolf Pack
 	[[HELLDIVERS - FLEETS/Fenrir III/Fenrir III - Wolf Pack\|Fenrir III - Wolf Pack]]
-	[[Ares Squad\|Ares Squad]]
+	[[HELLDIVERS - FLEETS/Fenrir III/Alastor Squad\|Alastor Squad]]
 	[[HELLDIVERS - FLEETS/Fenrir III/Bering Squad\|Bering Squad]]
 	[[HELLDIVERS - FLEETS/Fenrir III/Chiron Squad\|Chiron Squad]]
 
