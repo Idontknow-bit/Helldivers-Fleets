@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/to-do/","noteIcon":"","created":"2024-03-26T21:55:15.384+01:00","updated":"2024-04-07T23:45:56.980+02:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/to-do/","noteIcon":"","created":"2024-03-26T21:55:15.384+01:00","updated":"2024-04-13T17:56:52.583+02:00"}
 ---
 
 - [x] Update Crusaders of Mort
@@ -15,22 +15,24 @@
 	- [ ] Documents
 - [x] Finish the 77th
 - [x] CULT has been dissolved
-- [ ] Add Vice to the Valkryies
+- [x] Add Vice to the Valkryies
 - [x] Change SESF to SEV in 223rd Files
 - [x] Bully Blu
 - [ ] Add AVE to Homepage
 - [x] Add logo to SEV
-- [ ] Sandworms COC update
+- [x] Sandworms COC update
 - [ ] Add Doctors to fear files
 - [x] Find Stasis0001 and Hush.0170
 	- [ ] Get info from Hush
 	- [ ] Get info from Stasis
-- [ ] Update Fenrir III logo
+- [x] Update Fenrir III logo
 - [ ] Add Tempest
-- [ ] Crusaders of Mort CoC
+- [x] Crusaders of Mort CoC
 - [ ] Add the Roughneck docs 
-- [ ] Ubanean Guard
-- [ ] Put the CULT in the archives
+- [x] Ubanean Guard
+- [x] Put the CULT in the archives
 - [ ] Update lore for Hexcellium
 	- [ ] New Companies
 	- [ ] Lore updates
+- [x] Add Xcell Personal File - in DMS
+- [x] Mort update - Hbomber leader of Death riders - Mortis is only a Commander
