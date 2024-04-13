@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/valkyries/","noteIcon":"","created":"2024-03-22T21:57:31.254+01:00","updated":"2024-04-07T03:06:52.630+02:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/valkyries/","noteIcon":"","created":"2024-03-22T21:57:31.254+01:00","updated":"2024-04-13T17:38:19.456+02:00"}
 ---
 
 ![Vandalon_Blue_whiteFlag.png](/img/user/Images/Vandalon_Blue_whiteFlag.png)
@@ -18,12 +18,15 @@ Members: ~240
 [[HELLDIVERS - FLEETS/Valkyries/Bifrost Combat Support Corps\|Bifrost Combat Support Corps]]
 [[HELLDIVERS - FLEETS/Valkyries/Sister of Liberty\|Sister of Liberty]]
 [[HELLDIVERS - FLEETS/Valkyries/Spectre\|Spectre]]
+
+
 ## Lore
 
 
 ### Members on file
+[[HELLDIVERS - FLEETS/Valkyries/Valkyrie Operators/Brib\|Brib]] [[HELLDIVERS - FLEETS/Valkyries/Valkyrie Operators/Xcell\|Xcell]] [[HELLDIVERS - FLEETS/Valkyries/Valkyrie Operators/Scorpius\|Scorpius]]
 
 
 
 #### Source
-[[Birb\|Birb]]
+[[HELLDIVERS - FLEETS/Valkyries/Valkyrie Operators/Brib\|Brib]]
