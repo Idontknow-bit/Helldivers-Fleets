@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/fenrir-iii/fenrir-iii-wolf-pack/","noteIcon":"","created":"2024-04-02T22:11:51.642+02:00","updated":"2024-04-06T01:07:29.955+02:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/fenrir-iii/fenrir-iii-wolf-pack/","noteIcon":"","created":"2024-04-02T22:11:51.642+02:00","updated":"2024-04-13T18:35:46.111+02:00"}
 ---
 
 ![Fenrir Wolfpack.jpg](/img/user/Images/Fenrir%20Wolfpack.jpg)
@@ -18,6 +18,11 @@ Squadron Bravo, named for its bold and decisive actions, excels in direct action
 Chiron squadron, named after the wise and skilled centaur of Greek mythology, is the Wolf Pack's specialist unit in battlefield medical care and support. Drawing from a diverse range of skills, Chiron operatives excel planet side recovery, care under fire, emergency extraction, psychological care, and building alliances with local populations to achieve their objectives.
 
 Operating under the cloak of darkness, the Wolf Pack Helldivers strike fear into the hearts of their enemies, leaving no trace behind as they execute their missions with precision and cunning. Their reputation as masters of stealth and covert operations makes them a formidable force on the battlefield, capable of turning the tide of war in their favour.
+
+## Squads
+[[HELLDIVERS - FLEETS/Fenrir III/Alastor Squad\|Alastor Squad]]
+[[HELLDIVERS - FLEETS/Fenrir III/Bering Squad\|Bering Squad]]
+[[HELLDIVERS - FLEETS/Fenrir III/Chiron Squad\|Chiron Squad]]
 
 ### Members on file
 [[HELLDIVERS - FLEETS/Fenrir III/Fenrir Operators/Regen\|Regen]]
