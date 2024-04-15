@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/the-black-templars/the-black-templars/","noteIcon":"","created":"2024-03-21T00:04:44.972+01:00","updated":"2024-04-15T16:00:17.029+02:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/the-black-templars/the-black-templars/","noteIcon":"","created":"2024-03-21T00:04:44.972+01:00","updated":"2024-04-15T16:00:20.653+02:00"}
 ---
 
 ![Black_Templar_Helldivers.jpg](/img/user/Images/Black_Templar_Helldivers.jpg)
@@ -23,7 +23,7 @@ Our shadowed armor protects us from view, our faith protects us from harm.
 [[HELLDIVERS - FLEETS/The Black Templars/Templars Operator files/Prometheus\|Prometheus]]
 [[HELLDIVERS - FLEETS/The Black Templars/Templars Operator files/Taridon\|Taridon]]
 [[HELLDIVERS - FLEETS/The Black Templars/Templars Operator files/King Ghost\|King Ghost]]
-[[]]
+[[HELLDIVERS - FLEETS/The Black Templars/Templars Operator files/NewFieGuy\|NewFieGuy]]
 
 #### Source
 [[HELLDIVERS - FLEETS/The Black Templars/Templars Operator files/Prometheus\|Prometheus]]
