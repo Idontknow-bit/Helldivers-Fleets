@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/archived/fenrir-iii-wolf-pack-archived-version/","noteIcon":"","created":"2024-04-02T22:11:51.642+02:00","updated":"2024-04-13T18:35:46.111+02:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/archived/fenrir-iii-wolf-pack-archived-version/","noteIcon":"","created":"2024-04-13T17:27:16.433+02:00","updated":"2024-04-13T18:35:46.111+02:00"}
 ---
 
 ![Fenrir Wolfpack.jpg](/img/user/Images/Fenrir%20Wolfpack.jpg)
