@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2024-03-23T23:17:23.464+01:00","updated":"2024-04-14T01:10:40.871+02:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/home-page/","tags":["gardenEntry"],"noteIcon":"","created":"2024-03-23T23:17:23.464+01:00","updated":"2024-04-18T00:26:40.634+02:00"}
 ---
 
 # Homepage 
@@ -71,3 +71,5 @@ This Project is made by Snap
 - - -
 #### To get added
 Send me a message on Discord (goodguysnap)
+
+<iframe src="https://discord.com/widget?id=1229878866743398513&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
