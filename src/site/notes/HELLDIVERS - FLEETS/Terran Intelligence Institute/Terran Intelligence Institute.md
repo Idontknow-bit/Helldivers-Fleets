@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/terran-intelligence-institute/terran-intelligence-institute/","noteIcon":"","created":"2024-03-25T20:59:13.210+01:00","updated":"2024-03-25T21:19:44.910+01:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/terran-intelligence-institute/terran-intelligence-institute/","noteIcon":"","created":"2024-03-25T20:59:13.210+01:00","updated":"2024-05-09T05:17:12.377+02:00"}
 ---
 
-![Untitled1_202306151058422-1.png](/img/user/Images/Untitled1_202306151058422-1.png)
-
+![TII.png](/img/user/TII.png)
 # General
 High Councilor: [[Arya\|Arya]]
 Founded on: 
