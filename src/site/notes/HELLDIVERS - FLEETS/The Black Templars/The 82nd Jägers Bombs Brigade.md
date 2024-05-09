@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/the-black-templars/the-82nd-jaegers-bombs-brigade/","noteIcon":"","created":"2024-03-16T22:43:22.504+01:00","updated":"2024-03-24T01:04:54.619+01:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/the-black-templars/the-82nd-jaegers-bombs-brigade/","noteIcon":"","created":"2024-03-16T22:43:22.504+01:00","updated":"2024-05-08T00:23:41.391+02:00"}
 ---
 
-![Jägers.png](/img/user/Images/J%C3%A4gers.png)
+![[..png\|..png]]
 
 # General
 Commander: Gibby
