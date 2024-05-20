@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/ranking-structure/","noteIcon":"","created":"2024-03-23T23:24:06.950+01:00","updated":"2024-05-20T02:58:40.448+02:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/ranking-structure/","noteIcon":"","created":"2024-03-23T23:24:06.950+01:00","updated":"2024-05-20T03:56:22.279+02:00"}
 ---
 
+
+![Ranking Structure8.png](/img/user/Ranking%20Structure8.png)
+Updated 20-05-2024 4:00
+- - -
 ![Ranking Structure7.png](/img/user/Images/Ranking%20Structure7.png)
 Updated 20-05-2024 3:00
 - - - -
