@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/the-hexcellium/hexcellium/","noteIcon":"","created":"2024-03-22T22:59:59.955+01:00","updated":"2024-03-23T23:28:03.326+01:00"}
 ---
 
-![Hexcellium_Battalion_2.png](/img/user/Images/Hexcellium_Battalion_2.png)
+![Hexcellium_Battalion_2.png](/img/user/z%20Images/Hexcellium_Battalion_2.png)
 # General
 Commander: **Marshal** Xcell
 Home planet:
