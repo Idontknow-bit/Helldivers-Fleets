@@ -46,7 +46,7 @@ This Medal is granted by embarking on a **solo** mission on **HELLDIVE**, main o
 **Granted to:**
 Given to every member of the Vandalon Valkyries 
 
-![valkservicemetal.png|400](/img/user/Images/valkservicemetal.png)
+![valkservicemetal.png|400](/img/user/z%20Images/valkservicemetal.png)
 
 # [[HELLDIVERS - FLEETS/Valkyries/C.U.L.T\|C.U.L.T]]
 ### CULT Service Medal
@@ -54,42 +54,42 @@ Given to every member of the Vandalon Valkyries
 **Granted to:**
 Given to every member of C.U.L.T
 
-![cultservicemetal.png|400](/img/user/Images/cultservicemetal.png)
+![cultservicemetal.png|400](/img/user/z%20Images/cultservicemetal.png)
 
 # [[HELLDIVERS - FLEETS/Valkyries/Bifrost Combat Support Corps\|Bifrost Combat Support Corps]]
 ### BCSC Service Medal
 **Granted to:**
 Given to every member of BCSC
-![BCSC_Service_Medal.png|400](/img/user/Images/BCSC_Service_Medal.png)
+![BCSC_Service_Medal.png|400](/img/user/z%20Images/BCSC_Service_Medal.png)
 
 # [[HELLDIVERS - FLEETS/Valkyries/The Forgotten Sons\|The Forgotten Sons]]
 ### FGS Service Medal
 **Granted to:**
 Given to every member of FGS
-![forgottensonsservicemetal.png|400](/img/user/Images/forgottensonsservicemetal.png)
+![forgottensonsservicemetal.png|400](/img/user/z%20Images/forgottensonsservicemetal.png)
 
 # [[HELLDIVERS - FLEETS/Valkyries/The Hexcellium/Hexcellium\|Hexcellium]]
 ### HXLM Service Medal
 **Granted to:**
 Given to every member of HXLM
-![hxlm_Service_Medal.png|400](/img/user/Images/hxlm_Service_Medal.png)
+![hxlm_Service_Medal.png|400](/img/user/z%20Images/hxlm_Service_Medal.png)
 
 # [[HELLDIVERS - FLEETS/Valkyries/MIST\|MIST]]
 ### Mist Service Medal
 **Granted to:**
 Given to every member of Mist
-![Mist_Service_Medal.png|400](/img/user/Images/Mist_Service_Medal.png)
+![Mist_Service_Medal.png|400](/img/user/z%20Images/Mist_Service_Medal.png)
 
 # [[HELLDIVERS - FLEETS/Valkyries/Spectre\|Spectre]]
 ### Spectre Service Medal
 
 **Granted to:**
 Given to every member of SPECTRE
-![Spectreervicemetal.png|400](/img/user/Images/Spectreervicemetal.png)
+![Spectreervicemetal.png|400](/img/user/z%20Images/Spectreervicemetal.png)
 
 # [[HELLDIVERS - FLEETS/Valkyries/Valkyries Special Air Force\|Valkyries Special Air Force]]
 ### VSAF Service Medal
 
 **Granted to:**
 Given to every member of VSAF
-![VSAF_Service_Medal.png|400](/img/user/Images/VSAF_Service_Medal.png)
+![VSAF_Service_Medal.png|400](/img/user/z%20Images/VSAF_Service_Medal.png)
