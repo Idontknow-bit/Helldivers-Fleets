@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/helldivers-fleets/durgen-sandworms/ds-operator-files/zoomie/","noteIcon":"","created":"2024-03-27T00:53:13.528+01:00","updated":"2024-03-27T01:21:52.417+01:00"}
 ---
 
-![durgenPersonnelFile.png](/img/user/Images/Pics/durgenPersonnelFile.png)
+![durgenPersonnelFile.png](/img/user/z%20Images/Pics/durgenPersonnelFile.png)
 [Background] 
 // Name: Zoomie
 // Birth Sector: Severin Sector 
@@ -25,6 +25,6 @@
 // Stratagems: Orbital laser, Airstrikes, Orbital Railgun. 
 // Campaigns Involved: [REDACTED]
 
-![durgenHelldiverIDCard.png](/img/user/Images/Pics/durgenHelldiverIDCard.png)
+![durgenHelldiverIDCard.png](/img/user/z%20Images/Pics/durgenHelldiverIDCard.png)
 
-![zoomiecard.png](/img/user/Images/Pics/zoomiecard.png)
+![zoomiecard.png](/img/user/z%20Images/Pics/zoomiecard.png)
