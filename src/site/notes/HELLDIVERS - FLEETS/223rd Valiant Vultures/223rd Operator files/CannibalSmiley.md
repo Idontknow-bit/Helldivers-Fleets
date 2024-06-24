@@ -21,7 +21,7 @@
 `..`
 `File downloaded.`
 `Displaying...`
-![Rack.png](/img/user/Images/Rack.png)
+![Rack.png](/img/user/z%20Images/Rack.png)
 
  `Filename: Award Designations for Skull Admiral CannibalSmiley`
 
