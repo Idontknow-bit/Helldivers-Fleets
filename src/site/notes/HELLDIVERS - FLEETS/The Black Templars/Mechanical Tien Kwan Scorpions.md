@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/helldivers-fleets/the-black-templars/mechanical-tien-kwan-scorpions/","noteIcon":"","created":"2024-03-16T22:45:52.325+01:00","updated":"2024-03-26T18:48:26.539+01:00"}
 ---
 
-![Scorpions2.png](/img/user/Images/Scorpions2.png)
+![Scorpions2.png](/img/user/z%20Images/Scorpions2.png)
 # General
 Commander: Carl
 Home planet: Tien Kwan
@@ -23,7 +23,7 @@ _**Armatae fortitudinis, Gratia venenata.**_
 
 
 " With armored might, and venomous grace, we move as one."
-![helldivers_2_jnauts1.webp](/img/user/Images/helldivers_2_jnauts1.webp)
+![helldivers_2_jnauts1.webp](/img/user/z%20Images/helldivers_2_jnauts1.webp)
 
 
 ##  [[HELLDIVERS - FLEETS/The Black Templars/Mechanical Tien Kwan Scorpions\|Mechanical Tien Kwan Scorpions]]
