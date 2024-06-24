@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/valkyries/","noteIcon":"","created":"2024-03-22T21:57:31.254+01:00","updated":"2024-04-13T17:38:19.456+02:00"}
 ---
 
-![Vandalon_Blue_whiteFlag.png](/img/user/Images/Vandalon_Blue_whiteFlag.png)
+![Vandalon_Blue_whiteFlag.png](/img/user/z%20Images/Vandalon_Blue_whiteFlag.png)
 
 # General
 Commander: 
