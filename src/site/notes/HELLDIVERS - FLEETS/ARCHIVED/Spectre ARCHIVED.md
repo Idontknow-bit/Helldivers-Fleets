@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/helldivers-fleets/archived/spectre-archived/","noteIcon":"","created":"2024-03-26T22:27:14.648+01:00","updated":"2024-03-23T23:27:10.093+01:00"}
 ---
 
-![STRlogomain.png](/img/user/Images/STRlogomain.png)
+![STRlogomain.png](/img/user/z%20Images/STRlogomain.png)
 # General
 Commander: **Marshal** Torgryo
 Home planet: Vandalon
