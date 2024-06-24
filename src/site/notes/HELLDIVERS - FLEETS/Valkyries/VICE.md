@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/vice/","noteIcon":"","created":"2024-04-02T21:22:07.599+02:00","updated":"2024-04-02T21:58:59.665+02:00"}
 ---
 
-![VICE.png](/img/user/Images/VICE.png)
+![VICE.png](/img/user/z%20Images/VICE.png)
 # General
 Commander: Scorpius
 Home planet: Hellmire
