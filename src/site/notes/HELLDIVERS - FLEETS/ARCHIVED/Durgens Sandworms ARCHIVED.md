@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/archived/durgens-sandworms-archived/","noteIcon":"","created":"2024-03-21T22:29:40.626+01:00","updated":"2024-03-27T01:22:01.973+01:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/archived/durgens-sandworms-archived/","noteIcon":"","created":"2024-03-21T22:29:40.626+01:00","updated":"2024-06-01T17:21:08.097+02:00"}
 ---
 
-![Images/Sandworms.png](/img/user/Images/Sandworms.png)
+![z Images/Sandworms.png](/img/user/z%20Images/Sandworms.png)
 
 # General
 Commander: [[HELLDIVERS - FLEETS/ARCHIVED/Tydus ARCHIVED\|Tydus ARCHIVED]]
