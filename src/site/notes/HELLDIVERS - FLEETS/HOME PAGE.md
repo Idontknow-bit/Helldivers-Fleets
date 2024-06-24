@@ -57,7 +57,7 @@ This Project is made by Snap
 #### The Fenrir III - Wolf Pack
 	[[HELLDIVERS - FLEETS/Fenrir III/Fenrir III - Wolf Pack\|Fenrir III - Wolf Pack]]
 	[[HELLDIVERS - FLEETS/Fenrir III/Alastor Squad\|Alastor Squad]]
-	[[HELLDIVERS - FLEETS/Fenrir III/Bering Squad\|Bering Squad]]
+	[[Bering Squad\|Bering Squad]]
 	[[HELLDIVERS - FLEETS/Fenrir III/Chiron Squad\|Chiron Squad]]
 
 - - - 
