@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/helldivers-fleets/fenrir-iii/fenrir-iii-wolf-pack/","noteIcon":"","created":"2024-04-13T17:27:16.433+02:00","updated":"2024-04-13T17:27:47.289+02:00"}
 ---
 
-![Fenrir_IIIv2.png](/img/user/Images/Fenrir_IIIv2.png)
+![Fenrir_IIIv2.png](/img/user/z%20Images/Fenrir_IIIv2.png)
 # General
 Commander: Vall
 Home Planet:
