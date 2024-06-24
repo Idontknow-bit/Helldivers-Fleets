@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/helldivers-fleets/durgen-sandworms/ds-operator-files/admiral-tydus/","noteIcon":"","created":"2024-03-27T00:53:13.532+01:00","updated":"2024-03-27T01:22:20.915+01:00"}
 ---
 
-![durgenPersonnelFile.png](/img/user/Images/Pics/durgenPersonnelFile.png)
+![durgenPersonnelFile.png](/img/user/z%20Images/Pics/durgenPersonnelFile.png)
 
 [Background] 
 // Name: Tydus 
@@ -25,7 +25,7 @@
 // Stratagems: Orbital laser, Airstrikes, Orbital Railgun, Mech. 
 // Campaigns Involved: [REDACTED] (to many to list)
 
-![durgenHelldiverIDCard.png](/img/user/Images/Pics/durgenHelldiverIDCard.png)
+![durgenHelldiverIDCard.png](/img/user/z%20Images/Pics/durgenHelldiverIDCard.png)
 
-![HellDiverCardTydus.png](/img/user/Images/Pics/HellDiverCardTydus.png)
+![HellDiverCardTydus.png](/img/user/z%20Images/Pics/HellDiverCardTydus.png)
 
