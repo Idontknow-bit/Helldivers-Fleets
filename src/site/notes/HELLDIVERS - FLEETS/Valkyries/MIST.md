@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/mist/","noteIcon":"","created":"2024-03-22T22:15:39.238+01:00","updated":"2024-03-23T23:27:14.965+01:00"}
 ---
 
-![Mist_main.png](/img/user/Images/Mist_main.png)
+![Mist_main.png](/img/user/z%20Images/Mist_main.png)
 # General
 Commander: Drunkle
 Home planet: Vandalon
