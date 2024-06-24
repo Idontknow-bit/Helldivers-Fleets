@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/helldivers-fleets/scar/special-combat-assault-reserve/","noteIcon":"","created":"2024-03-24T17:54:59.782+01:00","updated":"2024-03-24T18:12:38.593+01:00"}
 ---
 
-![SCARSQUAD.png](/img/user/Images/SCARSQUAD.png)
+![SCARSQUAD.png](/img/user/z%20Images/SCARSQUAD.png)
 
 # General
 Commander: ~~[REDACTED]~~ 
