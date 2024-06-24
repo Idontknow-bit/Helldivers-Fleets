@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/spectre/","noteIcon":"","created":"2024-03-23T15:43:25.217+01:00","updated":"2024-03-26T22:28:39.567+01:00"}
 ---
 
-![STRlogomain.png](/img/user/Images/STRlogomain.png)
+![STRlogomain.png](/img/user/z%20Images/STRlogomain.png)
 # General
 Commander: **Marshal** Torgryo
 Home planet: Vandalon
