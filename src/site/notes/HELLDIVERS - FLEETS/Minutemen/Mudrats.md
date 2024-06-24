@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/helldivers-fleets/minutemen/mudrats/","noteIcon":"","created":"2024-03-22T18:10:55.046+01:00","updated":"2024-03-24T03:47:30.606+01:00"}
 ---
 
-![MudRats.png|250](/img/user/Images/MudRats.png)
+![MudRats.png|250](/img/user/z%20Images/MudRats.png)
 # General
 Company leader: ElectricNeon
 Home planet: Mantes
