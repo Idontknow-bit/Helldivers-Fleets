@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/strategic-provisions-and-requisitions/","noteIcon":"","created":"2024-04-02T20:54:09.547+02:00","updated":"2024-04-02T20:57:49.396+02:00"}
 ---
 
-![Spear_main.png](/img/user/Images/Spear_main.png)
+![Spear_main.png](/img/user/z%20Images/Spear_main.png)
 # General
 Commander: Marshal Blank
 Home Planet: Vandalon
