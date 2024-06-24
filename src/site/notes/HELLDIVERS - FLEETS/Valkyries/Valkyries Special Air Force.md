@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/valkyries-special-air-force/","noteIcon":"","created":"2024-03-22T22:38:14.477+01:00","updated":"2024-03-23T23:26:57.609+01:00"}
 ---
 
-![VSAF_Main.png](/img/user/Images/VSAF_Main.png)
+![VSAF_Main.png](/img/user/z%20Images/VSAF_Main.png)
 # General
 Commander: 
 Home planet:
