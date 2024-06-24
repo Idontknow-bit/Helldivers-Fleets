@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/helldivers-fleets/valkyries/c-u-l-t/","noteIcon":"","created":"2024-03-22T23:55:27.808+01:00","updated":"2024-04-01T22:55:59.384+02:00"}
 ---
 
-![cultmain.png](/img/user/Images/cultmain.png)
+![cultmain.png](/img/user/z%20Images/cultmain.png)
 # This Section was dissolved when the leaders got to busy with real life 
 
 # ~~General~~
