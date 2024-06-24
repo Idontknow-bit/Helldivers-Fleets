@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/helldivers-fleets/the-black-templars/the-black-templars/","noteIcon":"","created":"2024-03-21T00:04:44.972+01:00","updated":"2024-05-07T23:49:28.138+02:00"}
 ---
 
-![Black_Templar_Helldivers.jpg](/img/user/Images/Black_Templar_Helldivers.jpg)
+![Black_Templar_Helldivers.jpg](/img/user/z%20Images/Black_Templar_Helldivers.jpg)
 
 # General
 Commander: [[Revenant\|Revenant]]
