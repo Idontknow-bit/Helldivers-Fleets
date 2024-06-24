@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/helldivers-fleets/minutemen/the-minutemen/","noteIcon":"","created":"2024-03-20T23:39:51.622+01:00","updated":"2024-04-15T17:24:38.449+02:00"}
 ---
 
-![Pasted image 20240320235735.png](/img/user/Images/Pasted%20image%2020240320235735.png)
+![Pasted image 20240320235735.png](/img/user/z%20Images/Pasted%20image%2020240320235735.png)
 
 # General
 Commander: Zero
