@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/helldivers-fleets/crusaders-of-mort/crusaders-of-mort-archived/","noteIcon":"","created":"2024-04-01T23:36:06.613+02:00","updated":"2024-03-25T20:13:41.624+01:00"}
 ---
 
-![Pasted image 20240325201339.png](/img/user/Images/Pasted%20image%2020240325201339.png)
+![Pasted image 20240325201339.png](/img/user/z%20Images/Pasted%20image%2020240325201339.png)
 # General
 Commander: [[Squackle\|Squackle]]
 Home planet: Mort
