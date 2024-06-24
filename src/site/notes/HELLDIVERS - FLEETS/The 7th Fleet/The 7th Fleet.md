@@ -3,7 +3,7 @@
 ---
 
 
-![Pasted image 20240515011727.png](/img/user/Images/Pasted%20image%2020240515011727.png)
+![Pasted image 20240515011727.png](/img/user/z%20Images/Pasted%20image%2020240515011727.png)
 # General
 Commander: Mayhem
 Founded on:
