@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/archived/fenrir-iii-wolf-pack-archived-version/","noteIcon":"","created":"2024-04-13T17:27:16.433+02:00","updated":"2024-04-13T18:35:46.111+02:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/archived/fenrir-iii-wolf-pack-archived-version/","noteIcon":"","created":"2024-04-13T17:27:16.433+02:00","updated":"2024-06-06T23:15:16.721+02:00"}
 ---
 
-![Fenrir Wolfpack.jpg](/img/user/Images/Fenrir%20Wolfpack.jpg)
+![Fenrir Wolfpack.jpg](/img/user/z%20Images/Fenrir%20Wolfpack.jpg)
 # General
 Commander: Vall
 Home Planet:
@@ -21,7 +21,7 @@ Operating under the cloak of darkness, the Wolf Pack Helldivers strike fear into
 
 ## Squads
 [[HELLDIVERS - FLEETS/Fenrir III/Alastor Squad\|Alastor Squad]]
-[[HELLDIVERS - FLEETS/Fenrir III/Bering Squad\|Bering Squad]]
+[[HELLDIVERS - FLEETS/Fenrir III/Raven Troop\|Raven Troop]]
 [[HELLDIVERS - FLEETS/Fenrir III/Chiron Squad\|Chiron Squad]]
 
 ### Members on file
