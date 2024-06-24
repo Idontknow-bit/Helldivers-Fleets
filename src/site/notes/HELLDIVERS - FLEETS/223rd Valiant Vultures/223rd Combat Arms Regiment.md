@@ -3,7 +3,7 @@
 ---
 
 aka Valiant Vultures
-![VV_Patch_3.png](/img/user/Images/VV_Patch_3.png)
+![VV_Patch_3.png](/img/user/z%20Images/VV_Patch_3.png)
 
 # General 
 Commander: [[HELLDIVERS - FLEETS/223rd Valiant Vultures/223rd Operator files/CannibalSmiley\|CannibalSmiley]]
