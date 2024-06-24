@@ -54,4 +54,4 @@
 > 
 > ```ID accepted. Closing record 1245676```
 
-![Pasted image 20240324215145.png|300](/img/user/Images/Pasted%20image%2020240324215145.png)
+![Pasted image 20240324215145.png|300](/img/user/z%20Images/Pasted%20image%2020240324215145.png)
