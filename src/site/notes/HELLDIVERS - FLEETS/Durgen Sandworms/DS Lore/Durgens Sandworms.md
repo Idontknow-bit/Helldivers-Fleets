@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/helldivers-fleets/durgen-sandworms/ds-lore/durgens-sandworms/","noteIcon":"","created":"2024-03-27T00:53:13.522+01:00","updated":"2024-03-27T01:20:12.139+01:00"}
+{"dg-publish":true,"permalink":"/helldivers-fleets/durgen-sandworms/ds-lore/durgens-sandworms/","noteIcon":"","created":"2024-03-27T00:53:13.522+01:00","updated":"2024-06-01T17:21:08.114+02:00"}
 ---
 
-![Images/Pics/Sandworms.png](/img/user/Images/Pics/Sandworms.png)
+![z Images/Pics/Sandworms.png](/img/user/z%20Images/Pics/Sandworms.png)
 
 # General
 Commander: [[HELLDIVERS - FLEETS/Durgen Sandworms/DS Operator Files/Admiral Tydus\|Admiral Tydus]]
