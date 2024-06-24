@@ -38,4 +38,4 @@ Admiral Reign "Frigg" Aetos' legacy as a leader and warrior is one of excellence
 
 *For more information about Admiral Reign "Frigg" Aetos and her military accomplishments please see the Military of Truth*
 
-![Pasted image 20240326223111.png](/img/user/Images/Pasted%20image%2020240326223111.png) 
+![Pasted image 20240326223111.png](/img/user/z%20Images/Pasted%20image%2020240326223111.png) 
